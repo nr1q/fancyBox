@@ -1,0 +1,16 @@
+{
+    "name": "fancybox",
+    "main": [
+        "dist/jquery.fancybox.css",
+        "dist/jquery.fancybox.js",
+        "dist/jquery.fancybox.min.css",
+        "dist/jquery.fancybox.min.js"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules"
+    ],
+    "dependencies": {
+        "jquery": ">=1.8.3"
+    }
+}
